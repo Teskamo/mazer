@@ -10,7 +10,7 @@
 
 </p>
 
-![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 
